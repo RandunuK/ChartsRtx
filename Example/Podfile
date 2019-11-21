@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ChartsRtx_Example' do
+  pod 'ChartsRtx', :path => '../'
+
+  target 'ChartsRtx_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
