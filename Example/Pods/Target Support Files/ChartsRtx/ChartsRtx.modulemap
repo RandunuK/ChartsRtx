@@ -1,0 +1,6 @@
+framework module ChartsRtx {
+  umbrella header "ChartsRtx-umbrella.h"
+
+  export *
+  module * { export * }
+}

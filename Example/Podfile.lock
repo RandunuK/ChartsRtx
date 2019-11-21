@@ -1,0 +1,16 @@
+PODS:
+  - ChartsRtx (0.1.0)
+
+DEPENDENCIES:
+  - ChartsRtx (from `../`)
+
+EXTERNAL SOURCES:
+  ChartsRtx:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChartsRtx: 8a8e2a956f204a3436231afa27ee55d3ac097015
+
+PODFILE CHECKSUM: df0fd187ec1386f7349c975d05cc3751ed131937
+
+COCOAPODS: 1.8.4
